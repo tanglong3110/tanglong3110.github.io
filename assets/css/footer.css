@@ -1,0 +1,307 @@
+#SECTION4019 {
+    height: 381.5px;
+}
+
+#SECTION4019>.ladi-section-background {
+    background: #ff992e;
+    background: -webkit-radial-gradient(circle, #ff992e, #ff4500);
+    background: radial-gradient(circle, #ff992e, #ff4500);
+}
+
+#LDP_IMAGE4 {
+    width: 200px;
+    height: 84.8px;
+    top: auto;
+    left: 0px;
+    bottom: 0px;
+    right: auto;
+    position: fixed;
+    z-index: 90000050;
+}
+
+#LDP_IMAGE4>.ladi-image>.ladi-image-background {
+    width: 200px;
+    height: 84.8px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/tai-ngay-20200210075201.png");
+}
+
+#IMAGE4021 {
+    width: 107.306px;
+    height: 98.857px;
+    top: 56.7654px;
+    left: 304.673px;
+}
+
+#IMAGE4021>.ladi-image>.ladi-image-background {
+    width: 107.306px;
+    height: 98.857px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/data/logo-1566653828.svg");
+}
+
+#GROUP4022 {
+    width: 479px;
+    height: 115.082px;
+    top: 173.886px;
+    left: 118.826px;
+}
+
+#GROUP4023 {
+    width: 354.618px;
+    height: 59.0036px;
+    top: 28.225px;
+    left: 62.191px;
+}
+
+#LDP_IMAGE6 {
+    width: 172.051px;
+    height: 58.7645px;
+    top: 0.239099px;
+    left: 0px;
+}
+
+#LDP_IMAGE6.ladi-animation>.ladi-image {
+    animation-name: flash;
+    -webkit-animation-name: flash;
+    animation-delay: 0s;
+    -webkit-animation-delay: 0s;
+    animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+}
+
+#LDP_IMAGE6>.ladi-image>.ladi-image-background {
+    width: 174.948px;
+    height: 58.7645px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/chplay-20191120100351.png");
+}
+
+#LDP_IMAGE5 {
+    width: 163.386px;
+    height: 59.0036px;
+    top: 0px;
+    left: 191.232px;
+}
+
+#LDP_IMAGE5.ladi-animation>.ladi-image {
+    animation-name: flash;
+    -webkit-animation-name: flash;
+    animation-delay: 0s;
+    -webkit-animation-delay: 0s;
+    animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+}
+
+#LDP_IMAGE5>.ladi-image {
+    border-radius: 0px;
+}
+
+#LDP_IMAGE5>.ladi-image>.ladi-image-background {
+    width: 174.151px;
+    height: 65.2017px;
+    top: -2px;
+    left: -5.34191px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/appstore-20191120100351.png");
+}
+
+#PARAGRAPH4026 {
+    width: 479px;
+    top: 95.082px;
+    left: 0px;
+}
+
+#PARAGRAPH4026>.ladi-paragraph {
+    font-family: "Montserrat", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+    line-height: 1;
+}
+
+#HEADLINE4027 {
+    width: 293px;
+    top: -20px;
+    left: 93px;
+}
+
+#HEADLINE4027>.ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(253, 235, 113);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 0px;
+    line-height: 1.6;
+}
+
+#GROUP4028 {
+    width: 372px;
+    height: 233.203px;
+    top: 86.7654px;
+    left: 687.262px;
+}
+
+#HEADLINE4029 {
+    width: 372px;
+    top: -30px;
+    left: 0px;
+}
+
+#HEADLINE4029>.ladi-headline {
+    font-family: "Open Sans", sans-serif;
+    color: rgb(253, 235, 113);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    letter-spacing: 0px;
+    line-height: 1.6;
+}
+
+#GROUP4030 {
+    width: 311.141px;
+    height: 199.262px;
+    top: 33.9405px;
+    left: 30.4295px;
+}
+
+#LDP_BUTTON14 {
+    width: 311.141px;
+    height: 40.0068px;
+    top: 54.8095px;
+    left: 0px;
+}
+
+#SHAPE4032 {
+    width: 36.1414px;
+    height: 40.0068px;
+    top: 0px;
+    left: 0px;
+}
+
+#SHAPE4032 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+}
+
+#HEADLINE4033 {
+    width: 256px;
+    top: -14.0034px;
+    left: 55.141px;
+}
+
+#HEADLINE4033>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 1.6;
+}
+
+#LDP_BUTTON16 {
+    width: 300.141px;
+    height: 46.1966px;
+    top: 0px;
+    left: 0px;
+}
+
+#SHAPE4035 {
+    width: 36.141px;
+    height: 46.1966px;
+    top: 0px;
+    left: 0px;
+}
+
+#SHAPE4035 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+}
+
+#HEADLINE4036 {
+    width: 247px;
+    top: -17.0983px;
+    left: 53.141px;
+}
+
+#HEADLINE4036>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 1.6;
+}
+
+#LDP_BUTTON15 {
+    width: 181.474px;
+    height: 39.1102px;
+    top: 160.152px;
+    left: 0px;
+}
+
+#SHAPE4038 {
+    width: 39.1101px;
+    height: 39.1102px;
+    top: 0px;
+    left: 0px;
+}
+
+#SHAPE4038>.ladi-shape {
+    transform: rotate(10deg);
+    -webkit-transform: rotate(10deg);
+}
+
+#SHAPE4038 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+}
+
+#HEADLINE4039 {
+    width: 125px;
+    top: -13.5551px;
+    left: 56.474px;
+}
+
+#HEADLINE4039>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 1.6;
+}
+
+#LDP_BUTTON2 {
+    width: 293.141px;
+    height: 48.11px;
+    top: 103.429px;
+    left: 0px;
+}
+
+#SHAPE4041 {
+    width: 36.1414px;
+    height: 48.11px;
+    top: 0px;
+    left: 0px;
+}
+
+#SHAPE4041>.ladi-shape {
+    transform: rotate(13deg);
+    -webkit-transform: rotate(13deg);
+}
+
+#SHAPE4041 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+}
+
+#HEADLINE4042 {
+    width: 238px;
+    top: -18.055px;
+    left: 55.141px;
+}
+
+#HEADLINE4042>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 1.6;
+}

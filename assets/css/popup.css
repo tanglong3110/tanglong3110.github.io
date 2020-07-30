@@ -1,0 +1,136 @@
+#PART2 {
+    height: 596px;
+}
+
+#PART2.ladi-animation {
+    animation-name: fadeIn;
+    -webkit-animation-name: fadeIn;
+    animation-delay: 0s;
+    -webkit-animation-delay: 0s;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    animation-iteration-count: 1;
+    -webkit-animation-iteration-count: 1;
+}
+
+#PART2>.ladi-section-background {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("http://viettelpay.vn/1/gt5/images/10541-20200615022515.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#PART2>.ladi-overlay {
+    background-size: cover;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("http://viettelpay.vn/1/gt5/images/bg-8-20200615022319.png");
+    background-position: left center;
+    background-repeat: no-repeat;
+}
+
+#IMAGE3991 {
+    width: 584.763px;
+    height: 456.159px;
+    top: 139.841px;
+    left: 634.606px;
+}
+
+#IMAGE3991.ladi-animation>.ladi-image {
+    animation-name: fadeInRight;
+    -webkit-animation-name: fadeInRight;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    animation-iteration-count: 1;
+    -webkit-animation-iteration-count: 1;
+}
+
+#IMAGE3991>.ladi-image>.ladi-image-background {
+    width: 584.763px;
+    height: 456.159px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/datant-20200615071317.png");
+}
+
+#IMAGE3993 {
+    width: 240.39px;
+    height: 71.1625px;
+    top: 446.812px;
+    left: 50.999px;
+}
+
+#IMAGE3993.ladi-animation>.ladi-image {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+}
+
+#IMAGE3993>.ladi-image>.ladi-image-background {
+    width: 240.39px;
+    height: 71.1625px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/kmdata-20200615022307.png");
+}
+
+#IMAGE3994 {
+    width: 240.39px;
+    height: 71.4203px;
+    top: 446.683px;
+    left: 291.389px;
+}
+
+#IMAGE3994.ladi-animation>.ladi-image {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+}
+
+#IMAGE3994>.ladi-image>.ladi-image-background {
+    width: 240.39px;
+    height: 71.4203px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/kmnt-20200615022307.png");
+}
+
+#IMAGE4013 {
+    width: 621.419px;
+    height: 342.658px;
+    top: 71px;
+    left: -7.288px;
+}
+
+#IMAGE4013.ladi-animation>.ladi-image {
+    animation-name: bounceIn;
+    -webkit-animation-name: bounceIn;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    animation-iteration-count: 1;
+    -webkit-animation-iteration-count: 1;
+}
+
+#IMAGE4013>.ladi-image>.ladi-image-background {
+    width: 621.419px;
+    height: 342.658px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/text_1-20200615071409.png");
+}

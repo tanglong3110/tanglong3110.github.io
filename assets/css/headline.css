@@ -1,0 +1,155 @@
+#PART1 {
+    height: 47px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+    border-width: 0px 0px 1px;
+}
+
+#PART1>.ladi-section-background {
+    background-color: rgb(255, 255, 255);
+}
+
+#IMAGE1905 {
+    width: 44.3184px;
+    height: 41px;
+    top: 1.5px;
+    left: 125.758px;
+}
+
+#IMAGE1905>.ladi-image>.ladi-image-background {
+    width: 44.5198px;
+    height: 41px;
+    top: 0px;
+    left: -0.100718px;
+    background-image: url("http://viettelpay.vn/1/gt5/data/logo-1566653828.svg");
+}
+
+#HEADLINE1906 {
+    width: 93px;
+    top: 5px;
+    left: 291.999px;
+}
+
+#HEADLINE1906>.ladi-headline {
+    color: rgb(20, 129, 135);
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.2;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+#HEADLINE1907 {
+    width: 115px;
+    top: 5px;
+    left: 554.844px;
+}
+
+#HEADLINE1907>.ladi-headline {
+    color: rgb(20, 129, 135);
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#HEADLINE1908 {
+    width: 58px;
+    top: 5px;
+    left: 440.921px;
+}
+
+#HEADLINE1908>.ladi-headline {
+    color: rgb(20, 129, 135);
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: -1.2;
+}
+
+#HEADLINE1909 {
+    width: 66px;
+    top: 5px;
+    left: 725.766px;
+}
+
+#HEADLINE1909>.ladi-headline {
+    color: rgb(20, 129, 135);
+    font-size: 15.5px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.2;
+}
+
+#LDP_IMAGE1 {
+    width: 110.395px;
+    height: 41px;
+    top: 1.5px;
+    left: 847.688px;
+}
+
+#LDP_IMAGE1>.ladi-image {
+    border-radius: 0px;
+}
+
+#LDP_IMAGE1.ladi-animation>.ladi-image {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 4s;
+    -webkit-animation-delay: 4s;
+    animation-duration: 3s;
+    -webkit-animation-duration: 3s;
+    animation-iteration-count: 1;
+    -webkit-animation-iteration-count: 1;
+}
+
+#LDP_IMAGE1>.ladi-image>.ladi-image-background {
+    width: 110.395px;
+    height: 41px;
+    top: 2px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/appstore-20191120100351.png")
+}
+
+#LDP_IMAGE2 {
+    width: 110.395px;
+    height: 38px;
+    top: 1.5px;
+    left: 969.605px;
+}
+
+#LDP_IMAGE2.ladi-animation>.ladi-image {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 6s;
+    -webkit-animation-delay: 6s;
+    animation-duration: 3s;
+    -webkit-animation-duration: 3s;
+    animation-iteration-count: 1;
+    -webkit-animation-iteration-count: 1;
+}
+
+#LDP_IMAGE2>.ladi-image {
+    border-radius: 0px;
+}
+
+#LDP_IMAGE2>.ladi-image>.ladi-image-background {
+    width: 110.395px;
+    height: 41px;
+    top: 2px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/chplay-20191120100351.png");
+}

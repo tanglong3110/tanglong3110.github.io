@@ -1,0 +1,401 @@
+#SECTION217 {
+    height: 721px;
+}
+
+#SECTION217>.ladi-section-background {
+    background-color: rgb(76, 174, 216);
+    opacity: 0.01;
+}
+
+#HEADLINE3568 {
+    width: 854px;
+    top: 66px;
+    left: 173px;
+}
+
+#HEADLINE3568>.ladi-headline {
+    color: rgb(84, 84, 84);
+    font-size: 35px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.6;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: normal;
+}
+
+#BUTTON3953 {
+    width: 227.132px;
+    height: 59.73px;
+    top: 180.769px;
+    left: 390.142px;
+}
+
+#BUTTON3953>.ladi-button {
+    box-shadow: 0px 2px 0px 1px rgba(84, 84, 84, 1);
+    -webkit-box-shadow: 0px 2px 0px 1px rgba(84, 84, 84, 1);
+    border-radius: 14px;
+}
+
+#BUTTON3953>.ladi-button>.ladi-button-background {
+    background: #ff4500;
+    background: -webkit-linear-gradient(-30deg, #ff4500, #ff992e);
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#BUTTON_TEXT3953 {
+    width: 140px;
+    top: 9px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3953>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+}
+
+#BUTTON3955 {
+    width: 227.132px;
+    height: 59.73px;
+    top: 180.769px;
+    left: 690.725px;
+}
+
+#BUTTON3955>.ladi-button {
+    box-shadow: 0px 2px 0px 1px rgba(84, 84, 84, 1);
+    -webkit-box-shadow: 0px 2px 0px 1px rgba(84, 84, 84, 1);
+    border-radius: 14px;
+}
+
+#BUTTON3955>.ladi-button>.ladi-button-background {
+    background: #ff4500;
+    background: -webkit-linear-gradient(-30deg, #ff4500, #ff992e);
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#BUTTON_TEXT3955 {
+    width: 140px;
+    top: 9px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3955>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+}
+
+#GROUP3951 {
+    width: 920.307px;
+    height: 433.778px;
+    top: 270.021px;
+    left: 185px;
+}
+
+#GROUP3924 {
+    width: 542.145px;
+    height: 35.8082px;
+    top: 52.6894px;
+    left: 296.162px;
+}
+
+#GROUP3924.ladi-animation>.ladi-group {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 0s;
+    -webkit-animation-delay: 0s;
+    animation-duration: 0.5s;
+    -webkit-animation-duration: 0.5s;
+    animation-iteration-count: 1;
+    -webkit-animation-iteration-count: 1;
+}
+
+#BUTTON3925 {
+    width: 40.8083px;
+    height: 40.8082px;
+    top: -13px;
+    left: -1px;
+}
+
+#GROUP3924.ladi-animation>.ladi-group {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 0s;
+    -webkit-animation-delay: 0s;
+    animation-duration: 0.5s;
+    -webkit-animation-duration: 0.5s;
+    animation-iteration-count: 1;
+    -webkit-animation-iteration-count: 1;
+}
+
+#BUTTON3925>.ladi-button {
+    border-color: rgb(255, 255, 255);
+    border-width: 1px;
+    border-radius: 100px;
+}
+
+#BUTTON3925>.ladi-button>.ladi-button-background {
+    background: rgba(255, 138, 0, 1);
+    background: -webkit-linear-gradient(90deg, rgba(255, 138, 0, 1), rgba(255, 169, 0, 1));
+    background: linear-gradient(90deg, rgba(255, 138, 0, 1), rgba(255, 169, 0, 1));
+}
+
+#BUTTON_TEXT3925 {
+    width: 25px;
+    top: 9px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3925>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#HEADLINE3927 {
+    width: 484px;
+    top: -24.09237px;
+    left: 58.1454px;
+}
+
+#HEADLINE3927>.ladi-headline {
+    color: rgb(84, 84, 84);
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+#IMAGE3913 {
+    width: 220px;
+    height: 413.778px;
+    top: 0px;
+    left: 0px;
+    display: none !important;
+}
+
+#IMAGE3913>.ladi-image>.ladi-image-background {
+    width: 220px;
+    height: 413.778px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/nt01-20191206091050.png");
+}
+
+#GROUP3267 {
+    width: 556.145px;
+    height: 35.8082px;
+    top: 133.942px;
+    left: 305.547px;
+    display: none !important;
+}
+
+#GROUP3267.ladi-animation>.ladi-group {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 0s;
+    -webkit-animation-delay: 0s;
+    animation-duration: 0.5s;
+    -webkit-animation-duration: 0.5s;
+    animation-iteration-count: 1;
+    -webkit-animation-iteration-count: 1;
+}
+
+#BUTTON3268 {
+    width: 35.8082px;
+    height: 35.8082px;
+    top: 0px;
+    left: 0px;
+}
+
+#BUTTON3268>.ladi-button {
+    border-color: rgb(255, 255, 255);
+    border-width: 1px;
+    border-radius: 100px;
+}
+
+#BUTTON3268>.ladi-button>.ladi-button-background {
+    background-color: rgb(255, 139, 0);
+}
+
+#BUTTON_TEXT3268 {
+    width: 25px;
+    top: 9px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3268>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#GROUP3980 {
+    width: 542.145px;
+    height: 35.8082px;
+    top: 122.6894px;
+    left: 296.162px;
+}
+
+#BUTTON3900 {
+    width: 40.8082px;
+    height: 40.8082px;
+    top: 0px;
+    left: 0px;
+}
+
+#BUTTON3900>.ladi-button {
+    border-color: rgb(255, 255, 255);
+    border-width: 1px;
+    border-radius: 100px;
+}
+
+#BUTTON3900>.ladi-button>.ladi-button-background {
+    background: rgba(255, 138, 0, 1);
+    background: -webkit-linear-gradient(90deg, rgba(255, 138, 0, 1), rgba(255, 169, 0, 1));
+    background: linear-gradient(90deg, rgba(255, 138, 0, 1), rgba(255, 169, 0, 1));
+}
+
+#BUTTON_TEXT3900 {
+    width: 23px;
+    top: 19px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3900>.ladi-headline {
+    color:  rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#HEADLINE3902 {
+    width: 350px;
+    top: -12.34813px;
+    left: 58.1454px;
+}
+
+#HEADLINE3902>.ladi-headline {
+    color: rgb(84, 84, 84);
+    font-size: 17.5px;
+    line-height: 1.6;
+}
+
+#GROUP3999 {
+    width: 625.145px;
+    height: 35.8082px;
+    top: 206.384px;
+    left: 295.162px;
+}
+
+#BUTTON3995 {
+    width: 40.8083px;
+    height: 40.8082px;
+    top: 0px;
+    left: 0px;
+}
+
+#BUTTON3995>.ladi-button {
+    border-color: rgb(255, 255, 255);
+    border-width: 1px;
+    border-radius: 100px;
+}
+
+#BUTTON3995>.ladi-button>.ladi-button-background {
+    background: rgba(255, 138, 0, 1);
+    background: -webkit-linear-gradient(90deg, rgba(255, 138, 0, 1), rgba(255, 169, 0, 1));
+    background: linear-gradient(90deg, rgba(255, 138, 0, 1), rgba(255, 169, 0, 1));
+}
+
+#BUTTON_TEXT3995 {
+    width: 25px;
+    top: 9px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3995>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#HEADLINE3995 {
+    width: 580px;
+    top: -13.9041px;
+    left: 58.1455px;
+}
+
+#HEADLINE3995>.ladi-headline {
+    color: rgb(84, 84, 84);
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+#IMAGE3915 {
+    width: 220px;
+    height: 413.778px;
+    top: 5px;
+    left: 0px;
+}
+
+#IMAGE3915>.ladi-image>.ladi-image-background {
+    width: 286.645px;
+    height: 466.778px;
+    top: -18px;
+    left: -35.4765px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/nap-dt-20191011021223.png");
+}
+
+#LINE3907 {
+    height: 41px;
+    top: 29.0091px;
+    left: 10.37px;
+}
+
+#LINE3907>.ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+}
+
+#LINE3907>.ladi-line>.ladi-line-container {
+    border-top: 0px !important;
+    border-right: 1px dashed rgb(84, 84, 84);
+    border-bottom: 1px dashed rgb(84, 84, 84);
+    border-left: 1px dashed rgb(84, 84, 84);
+}
+
+#LINE3908 {
+    height: 41px;
+    top: 111.485px;
+    left: 10.37px;
+}
+
+#LINE3908>.ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+}
+
+#LINE3908>.ladi-line>.ladi-line-container {
+    border-top: 0px !important;
+    border-right: 1px dashed rgb(84, 84, 84);
+    border-bottom: 1px dashed rgb(84, 84, 84);
+    border-left: 1px dashed rgb(84, 84, 84);
+}

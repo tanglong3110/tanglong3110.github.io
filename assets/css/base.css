@@ -1,0 +1,37 @@
+html {
+    margin: -8px;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+head {
+    display: none;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    -ms-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -o-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    background: #fff;
+    line-height: 1;
+}
+
+div {
+    display: block;
+}
+
+
+[data-action="true"] {
+    cursor: pointer;
+}
+

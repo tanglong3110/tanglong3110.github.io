@@ -1,0 +1,83 @@
+#SECTION3515 {
+    height: 635.173px;
+}
+
+#IMAGE3516 {
+    width: 208.404px;
+    height: 469.988px;
+    top: 55.0925px;
+    left: 66.555px;
+}
+
+#IMAGE3516.ladi-animation>.ladi-image {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 0s;
+    -webkit-animation-delay: 0s;
+    animation-duration: 2s;
+    -webkit-animation-duration: 2s;
+    animation-iteration-count: 1;
+    -webkit-animation-iteration-count: 1;
+}
+
+#IMAGE3516>.ladi-image>.ladi-image-background {
+    width: 208.404px;
+    height: 469.988px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/mokup-dien-thoai3-1-20200610030200.png");
+}
+
+#HEADLINE3517 {
+    width: 804px;
+    top: 201.698px;
+    left: 331.243px;
+}
+
+#HEADLINE3517>.ladi-headline {
+    color: rgb(84, 84, 84);
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.6;
+    font-weight: normal;
+}
+
+#IMAGE3518 {
+    width: 318.972px;
+    height: 584.173px;
+    top: 4px;
+    left: 12.271px;
+}
+
+#IMAGE3518.ladi-animation>.ladi-image {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 0s;
+    -webkit-animation-delay: 0s;
+    animation-duration: 3s;
+    -webkit-animation-duration: 3s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+}
+
+#IMAGE3518>.ladi-image>.ladi-image-background {
+    width: 318.972px;
+    height: 590.173px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/mokup-dien-thoai-1-20200610030239.png");
+}
+
+#HEADLINE3519 {
+    width: 854px;
+    top: 38px;
+    left: 306.243px;
+}
+
+#HEADLINE3519>.ladi-headline {
+    color: rgb(84, 84, 84);
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}

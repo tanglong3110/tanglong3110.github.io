@@ -1,0 +1,1004 @@
+#PART3 {
+    height: 1258px;
+}
+
+#PART3>.ladi-section-background {
+    background-color: rgb(255, 255, 255);
+}
+
+#HEADLINE3521 {
+    width: 228px;
+    top: 240px;
+    left: 45.792px;
+}
+
+#HEADLINE3521>.ladi-headline {
+    color: rgb(36, 36, 36);
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#HEADLINE3522 {
+    width: 806px;
+    top: 135px;
+    left: 211px;
+}
+
+#HEADLINE3522>.ladi-headline {
+    color: rgb(84, 84, 84);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#HEADLINE3526 {
+    width: 228px;
+    top: 560px;
+    left: 45.792px;
+}
+
+#HEADLINE3526>.ladi-headline {
+    color: rgb(36, 36, 36);
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#HEADLINE3529 {
+    width: 228px;
+    top: 900px;
+    left: 50.792px;
+}
+
+#HEADLINE3529>.ladi-headline {
+    color: rgb(36, 36, 36);
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+#CAROUSEL3555 {
+    width: 1200px;
+    height: 310px;
+    top: 937px;
+    left: 0px;
+}
+
+.ladi-carousel .ladi-carousel-arrow-left {
+    left: 5px;
+    background-position: -28px;
+}
+
+.ladi-carousel .ladi-carousel-arrow-right {
+    right: 5px;
+    background-position: -52px;
+}
+
+#GROUP3588 {
+    width: 567.45px;
+    height: 260px;
+    top: 619.5px;
+    left: 51px;
+}
+
+#IMAGE3527 {
+    width: 260px;
+    height: 260px;
+    top: 0px;
+    left: 0px;
+}
+
+#IMAGE3527>.ladi-image>.ladi-image-background {
+    width: 260px;
+    height: 260.65px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/v30x-8-20200615070951.png");
+}
+
+#BUTTON3577 {
+    width: 100px;
+    height: 30px;
+    top: 206px;
+    left: 80px;
+}
+
+#BUTTON3577>.ladi-button {
+    border-radius: 14px;
+}
+
+#BUTTON3577>.ladi-button>.ladi-button-background {
+    background: #ff4500;
+    background: -webkit-linear-gradient(-30deg, #ff4500, #ff992e);
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#BUTTON_TEXT3577 {
+    width: 85px;
+    top: 9px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3577>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+}
+
+.ladi-button>.ladi-element {
+    width: 100% !important;
+    height: 100% !important;
+    top: 0 !important;
+    left: 0 !important;
+    display: table;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+#BUTTON3577>.ladi-button {
+    border-radius: 14px;
+}
+
+#IMAGE3528 {
+    width: 260px;
+    height: 260px;
+    top: 0px;
+    left: 307.45px;
+}
+
+#IMAGE3528>.ladi-image>.ladi-image-background {
+    width: 260px;
+    height: 260.65px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/st30k-8-20200615030633.png");
+}
+
+#BUTTON3579 {
+    width: 100px;
+    height: 30px;
+    top: 206px;
+    left: 387.45px;
+}
+
+#BUTTON3579>.ladi-button {
+    border-radius: 14px;
+}
+
+#BUTTON3579>.ladi-button>.ladi-button-background {
+    background: #ff4500;
+    background: -webkit-linear-gradient(-30deg, #ff4500, #ff992e);
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#BUTTON_TEXT3579 {
+    width: 85px;
+    top: 9px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3579>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+}
+
+#BUTTON_TEXT3579>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+}
+
+#GROUP3661 {
+    width: 271.725px;
+    height: 128px;
+    top: 678px;
+    left: 795.91px;
+    display: none !important;
+}
+
+#GROUP3640 {
+    width: 98.1994px;
+    height: 38.1581px;
+    top: 44.9208px;
+    left: 86.763px;
+}
+
+#IMAGE3533 {
+    width: 28.5911px;
+    height: 28.5912px;
+    top: 9.56702px;
+    left: 69.6084px;
+}
+
+#BUTTON3589 {
+    width: 10.9966px;
+    height: 3.29896px;
+    top: 0px;
+    left: 0px;
+}
+
+#BUTTON3589>.ladi-button {
+    border-radius: 14px;
+}
+
+#GROUP3641 {
+    width: 271.725px;
+    height: 128px;
+    top: 0px;
+    left: 0px;
+}
+
+#IMAGE3536 {
+    width: 28.5911px;
+    height: 28.5911px;
+    top: 99.409px;
+    left: 243.133px;
+}
+
+#IMAGE3536>.ladi-image>.ladi-image-background {
+    width: 28.5911px;
+    height: 28.5911px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/mimax90-8-20200615030633.png");
+}
+
+#BUTTON3634 {
+    width: 10.9966px;
+    height: 3.29897px;
+    top: 0px;
+    left: 0px;
+}
+
+#BUTTON3634>.ladi-button {
+    border-radius: 14px;
+}
+
+#BUTTON3634>.ladi-button>.ladi-button-background {
+    background: #ff4500;
+    background: -webkit-linear-gradient(-30deg, #ff4500, #ff992e);
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#BUTTON_TEXT3634 {
+    width: 85px;
+    top: 0.989692px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3634>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+}
+
+#GROUP3642 {
+    width: 123.272px;
+    height: 128px;
+    top: 0px;
+    left: 74.2269px;
+}
+
+#IMAGE3531 {
+    width: 28.5912px;
+    height: 28.5911px;
+    top: 99.409px;
+    left: 94.6809px;
+}
+
+#IMAGE3531>.ladi-image>.ladi-image-background {
+    width: 28.5912px;
+    height: 28.5911px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/st70-8-20200615030633.png");
+}
+
+#BUTTON3636 {
+    width: 10.9966px;
+    height: 3.29897px;
+    top: 0px;
+    left: 0px;
+}
+
+#BUTTON3636>.ladi-button {
+    border-radius: 14px;
+}
+
+#BUTTON3636>.ladi-button>.ladi-button-background {
+    background: #ff4500;
+    background: -webkit-linear-gradient(-30deg, #ff4500, #ff992e);
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#BUTTON_TEXT3636 {
+    width: 85px;
+    top: 0.989692px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3636>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+}
+
+
+
+#GROUP3659 {
+    width: 63.89px;
+    height: 128px;
+    top: 0px;
+    left: 103.917px;
+}
+
+#IMAGE3538 {
+    width: 28.591px;
+    height: 28.5911px;
+    top: 99.409px;
+    left: 35.299px;
+}
+
+#IMAGE3538>.ladi-image>.ladi-image-background {
+    width: 28.591px;
+    height: 28.5911px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5//images/f90-8-20200615070932.png");
+}
+
+#BUTTON3645 {
+    width: 10.9966px;
+    height: 3.29897px;
+    top: 0px;
+    left: 0px;
+}
+
+#BUTTON3645>.ladi-button {
+    border-radius: 14px;
+}
+
+#BUTTON3645>.ladi-button>.ladi-button-background {
+    background: #ff4500;
+    background: -webkit-linear-gradient(-30deg, #ff4500, #ff992e);
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#BUTTON_TEXT3645 {
+    width: 85px;
+    top: 0.989692px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3645>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+}
+
+#GROUP3660 {
+    width: 242.036px;
+    height: 128px;
+    top: 0px;
+    left: 14.8454px;
+}
+
+#IMAGE3535 {
+    width: 28.5913px;
+    height: 28.5911px;
+    top: 99.409px;
+    left: 213.444px;
+}
+
+#IMAGE3535>.ladi-image>.ladi-image-background {
+    width: 28.5913px;
+    height: 28.5911px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/st90-8-20200615030638.png");
+}
+
+#BUTTON3638 {
+    width: 10.9966px;
+    height: 3.29897px;
+    top: 0px;
+    left: 0px;
+}
+
+#BUTTON3638>.ladi-button {
+    border-radius: 14px;
+}
+
+#BUTTON3638>.ladi-button>.ladi-button-background {
+    background: #ff4500;
+    background: -webkit-linear-gradient(-30deg, #ff4500, #ff992e);
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#BUTTON_TEXT3638 {
+    width: 85px;
+    top: 0.989692px;
+    left: 0px;
+}
+
+#GROUP3658 {
+    width: 28.5911px;
+    height: 28.5911px;
+    top: 49.7045px;
+    left: 121.567px;
+}
+
+#IMAGE3530 {
+    width: 28.5911px;
+    height: 28.5911px;
+    top: 0px;
+    left: 0px;
+}
+
+#IMAGE3530>.ladi-image>.ladi-image-background {
+    width: 28.5911px;
+    height: 28.5911px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/v70x-8-20200615070951.png");
+}
+
+#GROUP3657 {
+    width: 28.5911px;
+    height: 28.5911px;
+    top: 49.7045px;
+    left: 121.567px;
+}
+
+#IMAGE3532 {
+    width: 28.5911px;
+    height: 28.5911px;
+    top: 0px;
+    left: 0px;
+}
+
+#IMAGE3532>.ladi-image>.ladi-image-background {
+    width: 28.5911px;
+    height: 28.5911px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/v90x-8-20200615030638.png");
+}
+
+#BUTTON3649 {
+    width: 10.9966px;
+    height: 3.29897px;
+    top: 12.646px;
+    left: 8.79726px;
+}
+
+#BUTTON3649>.ladi-button {
+    border-radius: 14px;
+}
+
+#BUTTON3649>.ladi-button>.ladi-button-background {
+    background: #ff4500;
+    background: -webkit-linear-gradient(-30deg, #ff4500, #ff992e);
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#BUTTON_TEXT3649 {
+    width: 85px;
+    top: 0.989692px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3649>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+}
+
+#GROUP3656 {
+    width: 28.5911px;
+    height: 28.5911px;
+    top: 49.7045px;
+    left: 121.567px;
+}
+
+#IMAGE3534 {
+    width: 28.5911px;
+    height: 28.5911px;
+    top: 0px;
+    left: 0px;
+}
+
+#IMAGE3534>.ladi-image>.ladi-image-background {
+    width: 28.5911px;
+    height: 28.5911px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/v120x-8-20200615070951.png");
+}
+
+#BUTTON3651 {
+    width: 10.9966px;
+    height: 3.29897px;
+    top: 12.646px;
+    left: 8.79726px;
+}
+
+#BUTTON3651>.ladi-button {
+    border-radius: 14px;
+}
+
+#BUTTON3651>.ladi-button>.ladi-button-background {
+    background: #ff4500;
+    background: -webkit-linear-gradient(-30deg, #ff4500, #ff992e);
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#BUTTON_TEXT3651 {
+    width: 85px;
+    top: 0.989692px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3651>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+}
+
+#GROUP3694 {
+    width: 874.9px;
+    height: 260px;
+    top: 300px;
+    left: 51px;
+}
+
+#GROUP3597 {
+    width: 260px;
+    height: 260px;
+    top: 0px;
+    left: 0px;
+}
+
+#IMAGE3525 {
+    width: 260px;
+    height: 260px;
+    top: 0px;
+    left: 0px;
+}
+
+#IMAGE3525>.ladi-image>.ladi-image-background {
+    width: 260px;
+    height: 260px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/mi5d-8-20200615030633.png");
+}
+
+#BUTTON3569 {
+    width: 100px;
+    height: 30px;
+    top: 206px;
+    left: 80px;
+}
+
+#BUTTON3569>.ladi-button {
+    border-radius: 14px;
+}
+
+#BUTTON3569>.ladi-button>.ladi-button-background {
+    background: #ff4500;
+    background: -webkit-linear-gradient(-30deg, #ff4500, #ff992e);
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#BUTTON_TEXT3569 {
+    width: 85px;
+    top: 9px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3569>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+}
+
+#GROUP3596 {
+    width: 260px;
+    height: 260px;
+    top: 0px;
+    left: 307.45px;
+}
+
+#IMAGE3524 {
+    width: 260px;
+    height: 260px;
+    top: 0px;
+    left: 0px;
+}
+
+#IMAGE3524>.ladi-image>.ladi-image-background {
+    width: 260px;
+    height: 260px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/mi10d-8-20200615030633.png");
+}
+
+#BUTTON3571 {
+    width: 100px;
+    height: 30px;
+    top: 205px;
+    left: 80px;
+}
+
+#BUTTON3571>.ladi-button {
+    border-radius: 14px;
+}
+
+#BUTTON3571>.ladi-button>.ladi-button-background {
+    background: #ff4500;
+    background: -webkit-linear-gradient(-30deg, #ff4500, #ff992e);
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#BUTTON_TEXT3571 {
+    width: 85px;
+    top: 9px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3571>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+}
+
+#GROUP3595 {
+    width: 260px;
+    height: 260px;
+    top: 0px;
+    left: 614.9px;
+}
+
+#IMAGE3523 {
+    width: 260px;
+    height: 260px;
+    top: 0px;
+    left: 0px;
+}
+
+#IMAGE3523>.ladi-image>.ladi-image-background {
+    width: 260px;
+    height: 260px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/st15k-8-20200615030633.png");
+}
+
+#BUTTON3573 {
+    width: 100px;
+    height: 30px;
+    top: 206px;
+    left: 80px;
+}
+
+#BUTTON3573>.ladi-button {
+    border-radius: 14px;
+}
+
+#BUTTON3573>.ladi-button>.ladi-button-background {
+    background: #ff4500;
+    background: -webkit-linear-gradient(-30deg, #ff4500, #ff992e);
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#BUTTON_TEXT3573 {
+    width: 85px;
+    top: 9px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3573>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+}
+
+#GROUP3960 {
+    width: 603px;
+    height: 81px;
+    top: 59px;
+    left: 312.5px;
+}
+
+#SHAPE3958 {
+    width: 553px;
+    height: 61px;
+    top: 20px;
+    left: 0px;
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#HEADLINE3959 {
+    width: 700px;
+    top: -12.5px;
+    left: -60px;
+}
+
+#HEADLINE3959>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+#SHAPE3987 {
+    width: 33.0435px;
+    height: 38px;
+    top: 0px;
+    left: 0px;
+    display: none !important;
+}
+
+#SHAPE3987 svg:last-child {
+    fill: rgba(255, 141, 1, 0.7);
+}
+
+svg {
+    width: 100%;
+    height: 100%;
+    fill: rgba(255, 141, 1, 0.7);
+}
+
+#SHAPE3988 {
+    width: 33.0435px;
+    height: 38px;
+    top: 0px;
+    position:relative;
+    padding:20px;
+    box-sizing:border-box;;
+}
+
+#SHAPẺ988.content::before {
+    content:"";
+    position:absolute;
+    border-radius: 15px;
+    transform: skew(-5deg);
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    z-index:-1;
+}
+
+#SHAPE3988 svg:last-child {
+    fill: rgba(255, 141, 1, 0.7);
+}
+
+#SHAPE3988 svg:last-child {
+    fill: rgba(255, 141, 1, 0.7);
+}
+
+#IMAGE3561 {
+    width: 260px;
+    height: 260px;
+    top: 25px;
+    left: 48.5px;
+}
+
+#IMAGE3561>.ladi-image>.ladi-image-background {
+    width: 260px;
+    height: 260px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/mimax70-8-20200615030633.png");
+}
+
+#IMAGE3564 {
+    width: 260px;
+    height: 260px;
+    top: 25px;
+    left: 337.833px;
+}
+
+#IMAGE3564>.ladi-image>.ladi-image-background {
+    width: 260px;
+    height: 260px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/mimax90-8-20200615030633.png");
+}
+
+#IMAGE3559 {
+    width: 260px;
+    height: 260px;
+    top: 25px;
+    left: 627.167px;
+}
+
+#IMAGE3559>.ladi-image>.ladi-image-background {
+    width: 260px;
+    height: 260px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/mimax90-8-20200615030633.png");
+}
+
+#IMAGE3563 {
+    width: 260px;
+    height: 260px;
+    top: 25px;
+    left: 916.5px;
+}
+
+#IMAGE3563>.ladi-image>.ladi-image-background {
+    width: 260px;
+    height: 260px;
+    top: 0px;
+    left: 0px;
+    background-image: url("http://viettelpay.vn/1/gt5/images/st90-8-20200615030638.png");
+}
+
+#BUTTON3591 {
+    width: 100px;
+    height: 30px;
+    top: 230px;
+    left: 122.792px;
+}
+
+#BUTTON3591>.ladi-button {
+    border-radius: 14px;
+}
+
+#BUTTON3591>.ladi-button>.ladi-button-background {
+    background: #ff4500;
+    background: -webkit-linear-gradient(-30deg, #ff4500, #ff992e);
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#BUTTON_TEXT3591 {
+    width: 85px;
+    top: 9px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3591>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+}
+
+#BUTTON3618 {
+    width: 100px;
+    height: 30px;
+    top: 230px;
+    left: 417.833px;
+}
+
+#BUTTON3618>.ladi-button {
+    border-radius: 14px;
+}
+
+#BUTTON3618>.ladi-button>.ladi-button-background {
+    background: #ff4500;
+    background: -webkit-linear-gradient(-30deg, #ff4500, #ff992e);
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#BUTTON_TEXT3618 {
+    width: 85px;
+    top: 9px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3618>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+}
+
+#BUTTON3620 {
+    width: 100px;
+    height: 30px;
+    top: 230px;
+    left: 707.167px;
+}
+
+#BUTTON3620>.ladi-button {
+    border-radius: 14px;
+}
+
+#BUTTON3620>.ladi-button>.ladi-button-background {
+    background: #ff4500;
+    background: -webkit-linear-gradient(-30deg, #ff4500, #ff992e);
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#BUTTON_TEXT3620 {
+    width: 85px;
+    top: 9px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3620>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+}
+
+#BUTTON3622 {
+    width: 100px;
+    height: 30px;
+    top: 230px;
+    left: 996.5px;
+}
+
+#BUTTON3622>.ladi-button {
+    border-radius: 14px;
+}
+
+#BUTTON3622>.ladi-button>.ladi-button-background {
+    background: #ff4500;
+    background: -webkit-linear-gradient(-30deg, #ff4500, #ff992e);
+    background: linear-gradient(-30deg, #ff4500, #ff992e);
+}
+
+#BUTTON_TEXT3622 {
+    width: 85px;
+    top: 9px;
+    left: 0px;
+}
+
+#BUTTON_TEXT3622>.ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+}
